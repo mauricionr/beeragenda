@@ -1,3 +1,3 @@
 # Beer agenda
 
-[https://github.com/mauricionr/beeragenda/issues]()
+[Feedback](https://github.com/mauricionr/beeragenda/issues/new)
